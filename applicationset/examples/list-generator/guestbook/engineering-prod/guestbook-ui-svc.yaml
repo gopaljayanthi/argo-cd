@@ -4,6 +4,7 @@ metadata:
   name: guestbook-ui
   labels: 
     name: another
+    fame: another
 spec:
   ports:
   - port: 80
