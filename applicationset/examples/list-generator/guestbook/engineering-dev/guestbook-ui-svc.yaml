@@ -1,6 +1,8 @@
 apiVersion: v1
 kind: Service
 metadata:
+  labels:
+    name: something
   name: guestbook-ui
 spec:
   ports:
