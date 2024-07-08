@@ -6,6 +6,7 @@ metadata:
     argocd.argoproj.io/sync-options: Validate=false
     argocd.argoproj.io/sync-options: Force=true,Replace=true
     foo: bar
+    goo: bar
   name: run-tests
 spec:
   template:
