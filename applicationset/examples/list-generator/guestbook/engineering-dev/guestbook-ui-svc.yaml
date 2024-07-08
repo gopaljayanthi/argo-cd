@@ -5,6 +5,7 @@ metadata:
     name: something
     address: here
     role: devopstopsmx
+    pole: devopstopsmx
   name: guestbook-ui
 spec:
   ports:
