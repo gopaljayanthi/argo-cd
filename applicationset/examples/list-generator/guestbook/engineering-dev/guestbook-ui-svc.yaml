@@ -3,6 +3,7 @@ kind: Service
 metadata:
   labels:
     name: something
+    address: here
   name: guestbook-ui
 spec:
   ports:
