@@ -9,6 +9,7 @@ metadata:
     goo: bar
     boo: bar
     loo: bar
+    moo: bar
   name: run-tests
 spec:
   template:
