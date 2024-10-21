@@ -10,6 +10,7 @@ metadata:
     boo: bar
     loo: bar
     moo: bar
+    noo: var
   name: run-tests
 spec:
   template:
